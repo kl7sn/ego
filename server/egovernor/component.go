@@ -13,8 +13,6 @@ import (
 	jsoniter "github.com/json-iterator/go"
 	"github.com/prometheus/client_golang/prometheus/promhttp"
 
-	"github.com/gotomicro/ego/core/econf"
-	"github.com/gotomicro/ego/task/ejob"
 	"github.com/gotomicro/ego/core/constant"
 	"github.com/gotomicro/ego/core/eapp"
 	"github.com/gotomicro/ego/core/econf"
